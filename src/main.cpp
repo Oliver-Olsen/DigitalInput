@@ -1,3 +1,6 @@
+//Oliver Olsen s205443
+//Nils Wulff   s223968
+
 //3a: 
 //The difference between pinMode(PIN, INPUT) and pinMode(PIN, INPUT_PULLUP) is the the latter will output a high value when the pin is left floating, while the former can output either randomly decided. 
 //3b: 
